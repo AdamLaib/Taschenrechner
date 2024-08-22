@@ -1,2 +1,2 @@
 # Taschenrechner
-Ein Taschenrechner der mit Python programmiert wured
+Ein Taschenrechner der mit Python programmiert wurde
